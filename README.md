@@ -1,4 +1,4 @@
-## ; documentation
+# Documentação
 Propósito: O código tem como propósito fornecer assistência na programação e administração de sistemas em um ambiente Linux/Gentoo Linux com shell zsh.
 
 Alcance: O código é capaz de executar comandos e fornecer informações relacionadas à programação e administração de sistemas. Ele pode ajudar na execução de tarefas como gerenciamento de pacotes, configuração de rede, manipulação de arquivos e diretórios, entre outras.
