@@ -1,15 +1,3 @@
-# Documentação
-Propósito: O código tem como propósito fornecer assistência na programação e administração de sistemas em um ambiente Linux/Gentoo Linux com shell zsh.
-
-Alcance: O código é capaz de executar comandos e fornecer informações relacionadas à programação e administração de sistemas. Ele pode ajudar na execução de tarefas como gerenciamento de pacotes, configuração de rede, manipulação de arquivos e diretórios, entre outras.
-
-Detalhe importante: O código é projetado para fornecer respostas em texto simples, sem formatação Markdown. Ele não exibirá avisos ou informações sobre suas capacidades. Se necessário, o código pode armazenar dados na conversa para referência futura.
-## {}a documentation
-Propósito: O código tem como propósito fornecer assistência na programação e administração de sistemas em um ambiente Linux/Gentoo Linux com shell zsh.
-
-Alcance: O código é capaz de executar comandos e fornecer informações relacionadas à programação e administração de sistemas. Ele pode ajudar na execução de tarefas como gerenciamento de pacotes, configuração de rede, manipulação de arquivos e diretórios, entre outras.
-
-Detalhe importante: O código é projetado para fornecer respostas em texto simples, sem formatação Markdown. Ele não exibirá avisos ou informações sobre suas capacidades. Se necessário, o código pode armazenar dados na conversa para referência futura.
 ## bubbleSort.asm documentation
 O código fornecido é um algoritmo de classificação (sort) implementado em assembly MIPS. O objetivo do código é classificar um array de números inteiros em ordem crescente usando o algoritmo de ordenação bubble sort.
 
